@@ -74,7 +74,7 @@ contract Lottery {
 
     }
         //save the bet to the queue
-    
+        
     /**
      * @dev 베팅 결과값을 확인하고 팟머니를 분배한다.
      * 정답 실패: 팟머니 축적, 정답 맞춤: 팟머니 획득, 확인 불가 or 한 글자 맞춤: 베팅 금액만 획득
